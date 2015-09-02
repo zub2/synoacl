@@ -38,11 +38,11 @@ the details of Synology ACL implementation (at least I haven't found
 much) so using ``synoacltool`` is a bit of a guesswork.
 
 To get an idea it's useful to run ``synoacltool`` without any arguments
-and read the usage summary is prints.
+and read the usage summary it prints.
 
 The two important concepts are:
 
-- *ACL Archive* (think directory flags): this specify among others if
+- *ACL Archive* (think directory flags): these specify among others if
   the directory can have ACLs at all (``is_support_ACL``) and if ACLs
   from the parents are inherited into this directory (``is_inherit``)
 - *ACL entries*: these specify the actual rights in a way similar to
