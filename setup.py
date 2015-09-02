@@ -13,7 +13,7 @@ with open(path.join(here, "DESCRIPTION.rst"), encoding="utf-8") as f:
 setup(
     name = "synoacl",
     version = "0.0.1",
-    description = "A simple wrapper around Synology\"s synoacltool.",
+    description = "A simple wrapper around Synology's synoacltool.",
     long_description = long_description,
     url = "https://github.com/zub2/synoacl",
     author = "David Kozub",
