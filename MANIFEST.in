@@ -1,0 +1,2 @@
+include DESCRIPTION.rst README.rst
+include tests/*.py
