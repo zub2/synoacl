@@ -10,7 +10,13 @@ useful when scripting tasks that involve setting the ACLs.
 Installation
 ------------
 
-This package can be installed with ``pip``:
+This package can be installed with ``pip``, either from `PyPI <https://pypi.python.org/pypi>`_:
+
+.. code-block:: bash
+
+    $ pip install synoacl
+
+or directly from GitHub:
 
 .. code-block:: bash
 
