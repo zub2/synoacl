@@ -533,7 +533,7 @@ class SynoACLTool(object):
     def setArchive(path, synoACLArchive):
         """Set one or more archive flags for given path.
 
-        This only adds flags that are dpecified, no flags are unset by this.
+        This only adds flags that are specified, no flags are unset by this.
 
         See the documentation of SynoACLArchive for more info on the flags.
         """
