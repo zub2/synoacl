@@ -1,2 +1,4 @@
 *.pyc
 /synoacl.egg-info/
+/build/
+/dist/
